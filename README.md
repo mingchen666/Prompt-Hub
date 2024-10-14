@@ -54,8 +54,6 @@ project-root/
 如果你觉得这个项目对你有帮助，或者你对 LLM（大语言模型）感兴趣，欢迎支持我！
 
 - **GitHub**: [mingchen666](https://github.com/mingchen666)
-- **Email**: [你的邮箱]
-- **微信/QQ**: [你的联系方式]
 
 ## 关于我
 计算机相关专业的，前端ing，对llm感兴趣，有点爱coding，如果你对前端开发或 LLM 有兴趣，欢迎加我一起交流！😊
