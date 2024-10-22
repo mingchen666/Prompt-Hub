@@ -1,6 +1,8 @@
 
 # Prompt-Hub
 
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/mingchen666/Prompt-Hub/total)
+
 ## 项目简介
 Prompt-Hub 是一个基于 Vue 3、Arco Design Vue、Vite 和 Pinia 的项目，旨在收集和展示优质的 Prompt，并以卡片形式呈现。用户可以在线体验并保存 卡片 到本地。
 
